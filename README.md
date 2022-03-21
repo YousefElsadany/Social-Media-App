@@ -20,9 +20,9 @@ shared preferences), architecture pattern MVVM .
 
 <img width="500" height="1100" src ="https://user-images.githubusercontent.com/55663920/159215217-679e43a3-b7d3-40c6-b38e-c50a66273c27.png">
 
-<img width="1100" height="500" src ="https://user-images.githubusercontent.com/55663920/159214723-9c23b71e-630f-4b14-a797-c6d81ee522c4.png">
+<img width="1000" height="500" src ="https://user-images.githubusercontent.com/55663920/159214723-9c23b71e-630f-4b14-a797-c6d81ee522c4.png">
 
-<img width="1100" height="500" src ="https://user-images.githubusercontent.com/55663920/159214723-9c23b71e-630f-4b14-a797-c6d81ee522c4.png">
+<img width="1000" height="500" src ="https://user-images.githubusercontent.com/55663920/159214723-9c23b71e-630f-4b14-a797-c6d81ee522c4.png">
 
 
 
