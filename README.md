@@ -8,7 +8,7 @@ shared preferences), architecture pattern MVVM .
 
 
 
-<img width="400" height="1000" src ="https://user-images.githubusercontent.com/55663920/159215176-3abf4d10-5c26-4532-b0ff-052f22d5d905.png">
+<img width="500" height="1100" src ="https://user-images.githubusercontent.com/55663920/159215176-3abf4d10-5c26-4532-b0ff-052f22d5d905.png">
 
 <img width="500" height="1100" src ="https://user-images.githubusercontent.com/55663920/159215180-2acf226a-6c49-4e69-9517-3bb7ab7a8d62.png">
 
