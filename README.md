@@ -4,8 +4,28 @@ o A Social Media application with chat to communication with others .
 o In this application I have used the libraries (Firebase , Getx , Third Party, Bloc ,
 shared preferences), architecture pattern MVVM .
 
-![image](https://user-images.githubusercontent.com/55663920/159214723-9c23b71e-630f-4b14-a797-c6d81ee522c4.png)
-![image](https://user-images.githubusercontent.com/55663920/159214815-143c4a00-b0e5-4377-9db8-36a5dcabcd74.png)
+
+
+<img width="500" height="1100" src ="https://user-images.githubusercontent.com/55663920/159215176-3abf4d10-5c26-4532-b0ff-052f22d5d905.png">
+
+<img width="500" height="1100" src ="https://user-images.githubusercontent.com/55663920/159215180-2acf226a-6c49-4e69-9517-3bb7ab7a8d62.png">
+
+<img width="500" height="1100" src ="https://user-images.githubusercontent.com/55663920/159215185-d1879621-bdbf-4ab0-8261-af3056d73446.png">
+
+<img width="500" height="1100" src ="https://user-images.githubusercontent.com/55663920/159215191-7ba20a9a-f058-4d75-b1b4-a6a074f3759a.png">
+
+<img width="500" height="1100" src ="https://user-images.githubusercontent.com/55663920/159215194-f1f6dbd3-8b67-49c2-832b-2a8653323673.png">
+
+<img width="500" height="1100" src ="https://user-images.githubusercontent.com/55663920/159215203-3c003f58-5736-4b01-9a46-015a01d5107f.png">
+
+<img width="500" height="1100" src ="https://user-images.githubusercontent.com/55663920/159215217-679e43a3-b7d3-40c6-b38e-c50a66273c27.png">
+
+<img width="1100" height="500" src ="https://user-images.githubusercontent.com/55663920/159214723-9c23b71e-630f-4b14-a797-c6d81ee522c4.png">
+
+<img width="1100" height="500" src ="https://user-images.githubusercontent.com/55663920/159214723-9c23b71e-630f-4b14-a797-c6d81ee522c4.png">
+
+
+
 
 
 <!-- ## Getting Started
